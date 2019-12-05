@@ -13,30 +13,30 @@ class ServicesSeeder extends Seeder
     {
         DB::table('services')->insert([
             [
-                'icon' => "icon-style",
+                'icon' => "icon-magic",
                 'title' => "Fast Cleaning",
-                'content' => "Membersihkan bagian terluar dari tas saja"
+                'content' => "Membersihkan bagian terluar dari tas saja."
             ]
         ]);
         DB::table('services')->insert([
             [
-                'icon' => "icon-style",
+                'icon' => "icon-magic",
                 'title' => "Deep Cleaning",
                 'content' => "Membersihkan semua bagian tas, termasuk penghilangan noda tertentu yang sulit dihilangkan."
             ]
         ]);
         DB::table('services')->insert([
             [
-                'icon' => "icon-style",
+                'icon' => "icon-gavel",
                 'title' => "Repair",
-                'content' => "Memperbaiki tas anda yang rusak"
+                'content' => "Memperbaiki tas anda yang rusak."
             ]
         ]);
         DB::table('services')->insert([
             [
-                'icon' => "icon-style",
+                'icon' => "icon-brush",
                 'title' => "Repaint",
-                'content' => "Memperkuat warna yang pudar atau bahkan perwarnaan ulang"
+                'content' => "Memperkuat warna yang pudar atau bahkan perwarnaan ulang."
             ]
         ]);
     }

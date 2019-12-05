@@ -169,9 +169,8 @@
             </div>
           </div>
           <div class="col-lg-4 order-2 order-lg-1"> 
-            <p>Bergerak dalam bidang perawatan tas ya kawan - kawan.
-              Foto disamping itu owner kita, ganteng kan hehe.
-              Bisa di follow Instagram owner kita : @bagusariif hehe
+            <p>Number 1 Cleaning Bag in The World. Bergerak dalam bidang jasa perawatan tas.
+                Foto disamping adalah owner kita, Bagus Arif M.
             </p>
             <p></p>
           </div>
@@ -307,7 +306,7 @@
         <div class="row mb-5">
           <div class="col-md-3">
             <h3 class="footer-title">Warehouse</h3>
-            <p><span class="d-inline-block d-md-block">Jl. Menuju Surga ,</span> Compton, LA</p>
+            <p><span class="d-inline-block d-md-block">Jl. Menuju Surga,</span> Compton, LA</p>
           </div>
           <div class="col-md-5 mx-auto">
             <div class="row">
